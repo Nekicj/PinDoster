@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[user]
+	email = network.analyzer@example.com
+	name = Network Analyzer Developer
