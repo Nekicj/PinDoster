@@ -1,6 +1,0 @@
-Add interactive CLI interface
-
-- Implemented rich terminal UI with command history
-- Added command completion support
-- Created basic command structure for capture control
-- Integrated with packet capture engine

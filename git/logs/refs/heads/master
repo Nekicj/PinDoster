@@ -1,2 +1,0 @@
-0000000000000000000000000000000000000000 794c448619941ec537f730acebbd3706068015d5 Network Analyzer Developer <network.analyzer@example.com> 1744631668 +0500	commit (initial): Initial commit: Set up Network Protocol Analyzer project structure with core components
-794c448619941ec537f730acebbd3706068015d5 42bd53d4d574ce0bdf0b56a7edd85b602805b370 Network Analyzer Developer <network.analyzer@example.com> 1744631725 +0500	commit: Add interactive CLI interface
