@@ -1,4 +1,4 @@
-# Uzdechka - Network Protocol Analyzer
+# PinDoster - Network Protocol Analyzer
 
 A lightweight, powerful network protocol analyzer and packet sniffer for real-time traffic inspection, protocol analysis, and network monitoring.
 
@@ -16,8 +16,8 @@ A lightweight, powerful network protocol analyzer and packet sniffer for real-ti
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/uzdechka.git
-cd uzdechka
+git clone https://github.com/Nekicj/PinDoster.git
+cd PinDoster
 
 # Create and activate virtual environment
 python -m venv venv
@@ -63,11 +63,7 @@ python -m examples.live_monitoring -i eth0 --alert-threshold 3
 - rich >= 14.0.0
 - Administrator/root privileges (required for raw packet capture)
 - Windows, macOS, or Linux operating system
-
-## License
-
-MIT License
-
+  
 ## Disclaimer
 
 This tool is intended for network administration, educational purposes, and authorized network analysis only. Always ensure you have proper authorization before analyzing network traffic.
